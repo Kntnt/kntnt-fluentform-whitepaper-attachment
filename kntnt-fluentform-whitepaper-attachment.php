@@ -44,4 +44,4 @@ add_filter( 'fluentform_filter_email_attachments', function ( $emailAttachments,
 
 	return $emailAttachments;
 
-}, 10, 5 );
+}, 10, 4 );
